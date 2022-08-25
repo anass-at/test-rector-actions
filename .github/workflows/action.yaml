@@ -6,4 +6,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: anass-at/rector@0.2
+      - uses: anass-at/rector@master
