@@ -6,6 +6,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: rlespinasse/github-slug-action@v3.x
-      - uses: FranzDiebold/github-env-vars-action@v2
-      - name: Get Pull Request ID
+      - uses: anass/rector
